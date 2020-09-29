@@ -10,3 +10,7 @@
 - [**Sum of Digits / Digital Root**](https://github.com/Conjurites/CodeWars/blob/master/digitalroot.py)
 - [**Format a string of names**](https://github.com/Conjurites/CodeWars/blob/master/bartandlisa.js)
 - [**Replace With Alphabet Position**](https://github.com/Conjurites/CodeWars/blob/master/alphabetPosition.js)
+
+## Badge:
+
+[https://www.codewars.com/users/RyouYoo/badges/large](https://www.codewars.com/users/RyouYoo/badges/large)
